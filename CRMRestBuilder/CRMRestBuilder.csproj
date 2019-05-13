@@ -47,6 +47,7 @@
   <ItemGroup>
     <Content Include="Scripts\CreateAccount.js" />
     <Content Include="Scripts\CreateContactFirstLastName.js" />
+    <Content Include="Scripts\DeleteContact.js" />
     <Content Include="Scripts\RetrieveAccount.js" />
     <Content Include="Scripts\RetrieveMutliple.js" />
     <Content Include="Scripts\UpdateContactWithGUID.js" />
