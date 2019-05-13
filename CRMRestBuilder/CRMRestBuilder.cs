@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CRMRestBuilder
 {
-    public class Class1
+    public class CRMRestBuilder
     {
     }
 }
