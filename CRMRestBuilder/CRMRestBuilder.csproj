@@ -47,6 +47,8 @@
   <ItemGroup>
     <Content Include="CreateAccount.js" />
     <Content Include="CreateContactFirstLastName.js" />
+    <Content Include="RetrieveAccount.js" />
+    <Content Include="UpdateContactWithGUID.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
