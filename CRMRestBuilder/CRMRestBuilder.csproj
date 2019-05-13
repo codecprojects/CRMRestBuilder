@@ -45,10 +45,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CreateAccount.js" />
-    <Content Include="CreateContactFirstLastName.js" />
-    <Content Include="RetrieveAccount.js" />
-    <Content Include="UpdateContactWithGUID.js" />
+    <Content Include="Scripts\CreateAccount.js" />
+    <Content Include="Scripts\CreateContactFirstLastName.js" />
+    <Content Include="Scripts\RetrieveAccount.js" />
+    <Content Include="Scripts\RetrieveMutliple.js" />
+    <Content Include="Scripts\UpdateContactWithGUID.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
